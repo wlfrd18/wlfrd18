@@ -54,7 +54,7 @@ API REST sécurisée, pipeline DevSecOps complet, JWT + 2FA + RBAC
 ---
 
 ### 📫 Me contacter
-📧 wilfried.guele@ecole2600.com
+📧 wilfriedpanol@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/wilfried-guele-5a456a190)
 
 ---
