@@ -1,4 +1,4 @@
-# 👋 Salut, je suis **Wilfried Guélé**
+# 👋 Salut, je suis **Wilfried Guele**
 
 🎯 **DevSecOps & Développeur Backend** — spécialisé en sécurité applicative,
 détection d'intrusion et pipelines CI/CD sécurisés.
@@ -42,7 +42,7 @@ rythme 3 semaines entreprise / 1 semaine école.
 - 🛡️ [**Mini-SOC Personnel**](https://github.com/wlfrd18) — Lab de détection d'intrusion :
 Wazuh SIEM, simulations MITRE ATT&CK, règles de détection custom, rapport SOC
 
-- 🌱 [**Rebois Connect**](https://rebois-connect.vercel.app) — Plateforme SaaS reforestation :
+- 🌱 [**Rebois Connect**](https://rebois-connect-v2.vercel.app/) — Plateforme SaaS reforestation :
 API REST sécurisée, pipeline DevSecOps complet, JWT + 2FA + RBAC
 
 ---
