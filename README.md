@@ -34,15 +34,6 @@ Atomic Red Team, règles de détection custom, rapports SOC.
 **Développement**
 `Python` `Django` `Flask` `TypeScript` `Next.js` `React` `PostgreSQL`
 
----
-
-### Projets
-
-| Projet | Nature | Stack | Lien |
-|---|---|---|---|
-| **Rebois Connect** | AppSec · SaaS reforestation | Django · Next.js · GitHub Actions | [Live](https://rebois-connect-v2.vercel.app) |
-| **Solvo** | DevOps · Cloud · Budget étudiant | AWS · K8s · Terraform · Next.js | [GitHub](https://github.com/wlfrd18/solvo) |
-| **Mini-SOC** | Blue Team · Lab perso | Wazuh · MITRE ATT&CK · auditd | Write-ups ci-dessous |
 
 ---
 
